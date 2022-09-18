@@ -1,17 +1,17 @@
 {
   "files": {
     "main.css": "/frontblog/static/css/main.def877c0.chunk.css",
-    "main.js": "/frontblog/static/js/main.6164297b.chunk.js",
-    "main.js.map": "/frontblog/static/js/main.6164297b.chunk.js.map",
+    "main.js": "/frontblog/static/js/main.901d6cb8.chunk.js",
+    "main.js.map": "/frontblog/static/js/main.901d6cb8.chunk.js.map",
     "runtime-main.js": "/frontblog/static/js/runtime-main.4e42c50a.js",
     "runtime-main.js.map": "/frontblog/static/js/runtime-main.4e42c50a.js.map",
     "static/css/2.d7cc0015.chunk.css": "/frontblog/static/css/2.d7cc0015.chunk.css",
-    "static/js/2.840c56ef.chunk.js": "/frontblog/static/js/2.840c56ef.chunk.js",
-    "static/js/2.840c56ef.chunk.js.map": "/frontblog/static/js/2.840c56ef.chunk.js.map",
+    "static/js/2.17169285.chunk.js": "/frontblog/static/js/2.17169285.chunk.js",
+    "static/js/2.17169285.chunk.js.map": "/frontblog/static/js/2.17169285.chunk.js.map",
     "index.html": "/frontblog/index.html",
     "static/css/2.d7cc0015.chunk.css.map": "/frontblog/static/css/2.d7cc0015.chunk.css.map",
     "static/css/main.def877c0.chunk.css.map": "/frontblog/static/css/main.def877c0.chunk.css.map",
-    "static/js/2.840c56ef.chunk.js.LICENSE.txt": "/frontblog/static/js/2.840c56ef.chunk.js.LICENSE.txt",
+    "static/js/2.17169285.chunk.js.LICENSE.txt": "/frontblog/static/js/2.17169285.chunk.js.LICENSE.txt",
     "static/media/404.3507057a.gif": "/frontblog/static/media/404.3507057a.gif",
     "static/media/AboutUsPage.c9232ae2.jpeg": "/frontblog/static/media/AboutUsPage.c9232ae2.jpeg",
     "static/media/AgencyLandingPage.717f8ed6.jpeg": "/frontblog/static/media/AgencyLandingPage.717f8ed6.jpeg",
@@ -104,8 +104,8 @@
   "entrypoints": [
     "static/js/runtime-main.4e42c50a.js",
     "static/css/2.d7cc0015.chunk.css",
-    "static/js/2.840c56ef.chunk.js",
+    "static/js/2.17169285.chunk.js",
     "static/css/main.def877c0.chunk.css",
-    "static/js/main.6164297b.chunk.js"
+    "static/js/main.901d6cb8.chunk.js"
   ]
 }
